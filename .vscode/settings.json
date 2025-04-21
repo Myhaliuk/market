@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.cursorStyleInactive": "outline",
+    "terminal.integrated.cursorStyle": "block",
+    "editor.overtypeCursorStyle": "block",
+    "terminal.integrated.altClickMovesCursor": false,
+    "editor.cursorBlinking": "blink",
+    "editor.multiCursorModifier": "alt"
+}
