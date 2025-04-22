@@ -7,7 +7,21 @@ if (itemsDiv) {
 itemsDiv.innerHTML+='<div class = "item"></div>'
  }
 
-    itemsDiv.innerHTML = '<h1>Відформатований HTML код</h1>'
+  
 } else {
     console.log('Блок товарів не знайдено')
 }
+
+
+
+let itemsArray = ['мотокоса 43',
+    'газонокосилка',
+    'акумолятор 54',
+    'машина часу v.2',]
+
+
+
+
+for (let i = 0; i < temsArray.length; i++) {
+    console.log(i + '-й елемент:', itemsArray[i]) 
+} 
